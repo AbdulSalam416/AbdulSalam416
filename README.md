@@ -25,4 +25,4 @@ I'm a software developer passionate about building intelligent, user-focused dig
 
 ---
 
-> I believe technology should not just scale — it should **solve meaningful problems efficiently**.
+> I believe technology should not just scale, it should **solve meaningful problems efficiently**.
